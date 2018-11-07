@@ -1,4 +1,0 @@
-hello-world:
-  file: poco.yaml
-  git: git@github.com:shiwaforce/poco-example-hello-world.git
-  repository_dir: poco-example-hello-world
