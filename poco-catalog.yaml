@@ -1,0 +1,3 @@
+hello-world:
+  file: poco.yml
+  git: git@github.com:shiwaforce/poco-example-hello-world.git
